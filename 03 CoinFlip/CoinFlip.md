@@ -85,6 +85,3 @@ function flip() external {
 }
 ```
 And there you have it! If you were to call this function it would always return the correct guess.
-
-
-### Another approach idea, What if we kept sending true and got true everytime???
