@@ -10,4 +10,4 @@ Contract Addres => 0xa842a43D8aEB003Ffe314157c2Be09690d96157d
 
 - Challenge 3 CoinFlip
 
-COntract Address => 0x83A3525a61A3A86f0e7e8140619f650f196B462a
+Contract Address => 0x83A3525a61A3A86f0e7e8140619f650f196B462a
