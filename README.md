@@ -15,3 +15,7 @@ Contract Address => 0x83A3525a61A3A86f0e7e8140619f650f196B462a
 - Challenge 4 Telephone
 
 Contract Address => 0x5309D1d076fB19042884D92785E8FFF5c76d2942
+
+- Challenge 5 Token
+
+Contract Address => 0xb5A8F29cE89C6e3145Fcc98E8c22807014bB7d35
