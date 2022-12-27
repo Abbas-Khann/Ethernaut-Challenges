@@ -52,5 +52,4 @@ contract HackTelephone {
 
 ```
 
-And there you have it!
-Easy peasy!!!
+And there you have it, Call the changeOwner function which and the if condition in the contract will be satisfied with the ownership transferred to your address.
