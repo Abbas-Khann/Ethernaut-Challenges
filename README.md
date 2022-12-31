@@ -19,3 +19,7 @@ Contract Address => 0x5309D1d076fB19042884D92785E8FFF5c76d2942
 - Challenge 5 Token
 
 Contract Address => 0xb5A8F29cE89C6e3145Fcc98E8c22807014bB7d35
+
+- Challenge 6 Delegation
+
+Contract Address => 0xB1BC934737542731Ff88Eb70681AC816f49b9e98
