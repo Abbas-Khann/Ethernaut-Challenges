@@ -23,3 +23,7 @@ Contract Address => 0xb5A8F29cE89C6e3145Fcc98E8c22807014bB7d35
 - Challenge 6 Delegation
 
 Contract Address => 0xB1BC934737542731Ff88Eb70681AC816f49b9e98
+
+- Challenge 7 Force
+
+Contract Address => 0x89ee074c23c7Fa6584055feb027B3399c894f8e6
