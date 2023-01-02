@@ -27,3 +27,7 @@ Contract Address => 0xB1BC934737542731Ff88Eb70681AC816f49b9e98
 - Challenge 7 Force
 
 Contract Address => 0x89ee074c23c7Fa6584055feb027B3399c894f8e6
+
+- Challenge 8 Vault
+
+Contract Address => 0x1C6064A206D9A0983B3D3987C6d17a3bE3227B3A
