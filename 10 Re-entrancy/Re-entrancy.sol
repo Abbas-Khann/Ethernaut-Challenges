@@ -27,13 +27,3 @@ contract Reentrance {
 
     receive() external payable {}
 }
-
-contract Hack {
-    Reentrance reentrance;
-
-    constructor(address _target) {
-        Reentrance = reentrance(_target);
-    }
-
-    function attack() public payable {}
-}
