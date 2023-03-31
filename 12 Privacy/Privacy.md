@@ -58,7 +58,7 @@ Let's look at all the variables we have here and check their slots
     bytes32[3] private data;
 ```
 
-We care about slot 4 in this case since that's what will allow us to call the unlock function successfully.
+We care about slot 5 in this case since that's what will allow us to call the unlock function successfully.
 
 Now if you look at the unlock function it requires bytes16 to be passed in and if that is equivalent to bytes16(data[2]) it will set the boolean to false.
 
